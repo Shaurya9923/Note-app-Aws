@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "noteappawsfe6c432c": {}
+      },
+      "api": {
+        "noteappaws": {}
       }
     }
   }
